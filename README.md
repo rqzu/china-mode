@@ -13,7 +13,6 @@ Just a package I made for fun. Changes the wallpaper, and starts playing a meme 
 package main
 
 import (
-	"time"
 	china_mode "github.com/rqzu/china-mode"
 )
 
